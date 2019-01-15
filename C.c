@@ -2,8 +2,9 @@ scanf("\n");
 scanf("%[^\n]%*c", &s)        -->citanje cele linije iz konzole
 %d, %s, %c, %f, %lf
 ****************************************************************************
-poraditi na onim ogranicenjima u sabiranju brojeva
+-poraditi na onim ogranicenjima u sabiranju brojeva
 kad moze doci do owerflova kod pormenjive
+-izgled metoda malloc, calloc, realloc, scanf, printf
 ****************************************************************************
 function(int param)
 int variable
